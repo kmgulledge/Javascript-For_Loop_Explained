@@ -1,4 +1,4 @@
-# Javascript-For_Loop_Explained
+# Javascript For Loop Explained
 Instagram post on explaining the Javascript For Loop. 
 
 ## Table of contents
